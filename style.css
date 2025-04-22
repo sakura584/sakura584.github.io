@@ -1,0 +1,13 @@
+body {
+    background-color: #d0f0ff; /* 背景色を薄い水色に */
+  }
+  h1 {
+    color: #229954; /* 見出しの文字色を緑色に */
+  }
+  
+  p {
+    color: #2e86c1; /* 段落の文字色を青色に */
+  }
+  body {
+    font-family: serif; /* セリフ体 (≒ 明朝体) */
+  }
